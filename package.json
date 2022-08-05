@@ -1,0 +1,20 @@
+{
+  "name": "whentochill",
+  "version": "1.0.0",
+  "description": "이때놀까?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unbroken2650/whentochill.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unbroken2650/whentochill/issues"
+  },
+  "homepage": "https://github.com/unbroken2650/whentochill#readme"
+}
